@@ -57,7 +57,7 @@
 
 | Тип | Файл | Описание |
 |------|------|-----------|
-| ✅ Тест-кейсы | [Google Sheets]([./Yandex_Authorization_TestCases_Updated.xlsx](https://docs.google.com/spreadsheets/d/1Z2zmze1FUGGZ4yWgaPC91THLN03GT8ePgAZUQ5iccH0/edit?gid=0#gid=0)) | Тест-кейсы: Авторизация в паспорте на странице ya.ru  |
+| ✅ Тест-кейсы | [Google Sheets](https://docs.google.com/spreadsheets/d/1Z2zmze1FUGGZ4yWgaPC91THLN03GT8ePgAZUQ5iccH0/edit?gid=0#gid=0) | Тест-кейсы: Авторизация в паспорте на странице ya.ru  |
 | ✅ Тест-кейсы | [GitHub](./TestCases.md) | Тест-кейсы в виде карточек |
 
 ---
