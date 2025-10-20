@@ -4,8 +4,6 @@
 ![Device](https://img.shields.io/badge/Device-Mobile%20(iPhone%20XS)-orange)  
 ![Browser](https://img.shields.io/badge/Browser-Yandex%20Browser-green)  
 
----
-
 ### 🧩 **TCA-01 — Форма авторизации на мобильном устройстве отображается**
 ```
 Предусловия:
